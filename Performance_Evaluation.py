@@ -1,6 +1,7 @@
 """
 Regularly evaluate the performance of the strategy to identify areas for improvement and make adjustments as necessary.
 """
+import numpy as np
 
 
 class PerformanceEvaluation:
